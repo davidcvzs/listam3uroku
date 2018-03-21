@@ -1,0 +1,226 @@
+#EXTM3U
+ 
+#EXTINF:-1,Unicable
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNICABLE)/index.m3u8
+ 
+#EXTINF:-1,Tlnovelas
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/index.m3u8
+ 
+#EXTINF:-1,FOX
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
+ 
+#EXTINF:-1,Comedy Central
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/index.m3u8
+ 
+#EXTINF:-1,A&E
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/index.m3u8
+ 
+#EXTINF:-1,FX
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(05)/index.m3u8
+ 
+#EXTINF:-1,Universal
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/index.m3u8
+ 
+#EXTINF:-1,Warner
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
+ 
+#EXTINF:-1,Sony
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/index.m3u8
+ 
+#EXTINF:-1,Sundance TV
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/index.m3u8
+ 
+#EXTINF:-1,Europa Canal 4
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+ 
+#EXTINF:-1,Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+ 
+#EXTINF:-1,Telpin
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/.m3u8
+ 
+#EXTINF:-1,Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+ 
+#EXTINF:-1,TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+ 
+#EXTINF:-1,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+ 
+#EXTINF:-1,Teledoce
+http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8
+ 
+#EXTINF:-1,Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+ 
+#EXTINF:-1,Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+ 
+#EXTINF:-1,TV Chile
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+ 
+#EXTINF:-1,NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+ 
+#EXTINF:-1,Ve Plus
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?eamo.m3u8?eamogratis?Entretenimiento.m3u8?
+ 
+#EXTINF:-1,Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+ 
+#EXTINF:-1,Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+ 
+#EXTINF:-1,Telpin
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?
+ 
+#EXTINF:-1,Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+ 
+#EXTINF:-1,Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?eamogratis?Entretenimiento.m3u8
+ 
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+ 
+#EXTINF:-1,Canal Carnaval 38
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+ 
+#EXTINF:-1,UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+ 
+#EXTINF:-1,VTV
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+ 
+#EXTINF:-1,VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+ 
+#EXTINF:-1,Cine Dinamita
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/index.m3u8?srregio
+ 
+#EXTINF:-1,HBO Plus
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8?srregio
+ 
+#EXTINF:-1,Multipremier
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8?srregio
+ 
+#EXTINF:-1,Cinecanal
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8?srregio
+ 
+#EXTINF:-1,Paramount
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8?srregio
+ 
+#EXTINF:-1,TBS
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TBS_HD)/Stream(06)/index.m3u8
+ 
+#EXTINF:-1,De Pelicula
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DEPELICULA)/index.m3u8
+ 
+#EXTINF:-1,Golden
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
+ 
+#EXTINF:-1,FOX Cinema
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+ 
+#EXTINF:-1,HBO Family
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/index.m3u8
+ 
+#EXTINF:-1,FOX Movies
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/index.m3u8
+ 
+#EXTINF:-1,FOX Classics
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+ 
+#EXTINF:-1,Fox Action
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
+ 
+#EXTINF:-1,HBO
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
+ 
+#EXTINF:-1,HBO Plus
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8
+ 
+#EXTINF:-1,HBO Signature
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+ 
+#EXTINF:-1,MAX
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/index.m3u8
+ 
+#EXTINF:-1,MAX Prime
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR ANTENA 3 HD
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+ 
+#EXTINF:-1,MOVISTAR ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+ 
+#EXTINF:-1,MOVISTAR AXN WHITE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR BEIN SPORT
+http://maximumtv.biz/tv/beyin1.m3u8
+ 
+#EXTINF:-1,MOVISTAR Comedia
+http://185.231.160.49/613/1/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR F1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR FightBox
+http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
+ 
+#EXTINF:-1,MOVISTAR FOX
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR FUTBOL
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR GP
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR LA LIGA TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR LA LIGA TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR MOTO GP
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR Series Xtra
+http://185.231.160.49/600/1/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR TELECINCO HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+ 
+#EXTINF:-1,MOVISTAR TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+ 
+#EXTINF:-1,MOVISTAR. MOTOGP
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/533.m3u8
+ 
+#EXTINF:-1,BEIN LA LIGA
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+ 
+#EXTINF:-1,BEIN LA LIGA
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+ 
+#EXTINF:-1,BEIN LA LIGA
+http://185.231.160.49/607/1/index.m3u8
+ 
+#EXTINF:-1,BEIN LA LIGA
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+ 
+#EXTINF:-1,BEIN SPORTS
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
